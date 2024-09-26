@@ -1,384 +1,295 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Eventos Especiales" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",Eventos Especiales
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50562
-#EXTINF:-1 tvg-id="" tvg-name="Eventos Deportivos STAR+" tvg-logo="https://www.eazycityblog.com/wp-content/uploads/2016/05/Wikinews_Sports.png" group-title="DEPORTES",Eventos Deportivos STAR+
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/55037
-#EXTINF:-1 tvg-id="I576.34863.schedulesdirect.org" tvg-name="Afizzionados (Mexico)" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES",Afizzionados (Mexico)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/14718
-#EXTINF:-1 tvg-id="" tvg-name="All Sports" tvg-logo="https://i.ibb.co/Fz7qRJb/images-q-tbn-ANd9-Gc-Re7pv-Dq-T6-Vqh-L1p-M2j-O8lp-Dphw-BWAytlep-Qw-usqp-CAU.jpg" group-title="DEPORTES",All Sports
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/31755
-#EXTINF:-1 tvg-id="I9581.116634.schedulesdirect.org" tvg-name="Bar TV La Liga" tvg-logo="https://i.ibb.co/J5qrZJ5/meta-image.jpg" group-title="DEPORTES",Bar TV La Liga
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/6854
-#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Bein Sports La Liga (España)" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports La Liga (España)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3419
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ" tvg-logo="https://i.postimg.cc/65QdrYf8/bein-es.jpg" group-title="DEPORTES",Bein Sports Ñ
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3061
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Extra" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1164.png" group-title="DEPORTES",Bein Sports Extra
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51476
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports USA" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports USA
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/37457
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports USA HD" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports USA HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/37458
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English 1" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports English 1
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51370
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports 4
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/76983
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES",Bein Sports 5
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/76982
-#EXTINF:-1 tvg-id="I490.69306.schedulesdirect.org" tvg-name="Futbol Chile Estadio" tvg-logo="https://i.ibb.co/drk9Bxg/BSG2-Dx1-VS2i-BLBf-C45-ZP-logo-estadio-lt.png" group-title="DEPORTES",Futbol Chile Estadio
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
-#EXTINF:-1 tvg-id="I490.69306.schedulesdirect.org" tvg-name="TN Sports Premium SD" tvg-logo="https://i.ibb.co/sp4wTqb/descarga.png" group-title="DEPORTES",TN Sports Premium SD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57155
-#EXTINF:-1 tvg-id="I490.69306.schedulesdirect.org" tvg-name="TN Sports Premium HD" tvg-logo="https://i.ibb.co/sp4wTqb/descarga.png" group-title="DEPORTES",TN Sports Premium HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57156
-#EXTINF:-1 tvg-id="I490.69306.schedulesdirect.org" tvg-name="TN Sports Premium FHD" tvg-logo="https://i.ibb.co/sp4wTqb/descarga.png" group-title="DEPORTES",TN Sports Premium FHD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57157
-#EXTINF:-1 tvg-id="I189.50707.schedulesdirect.org" tvg-name="TN Sports SD" tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="DEPORTES",TN Sports SD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57160
-#EXTINF:-1 tvg-id="I189.50707.schedulesdirect.org" tvg-name="TN Sports  HD" tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="DEPORTES",TN Sports  HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57161
-#EXTINF:-1 tvg-id="I603.106780.schedulesdirect.org" tvg-name=" TN Argentina" tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="DEPORTES", TN Argentina
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57162
-#EXTINF:-1 tvg-id="I603.106780.schedulesdirect.org" tvg-name="TN Argentina HD" tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="DEPORTES",TN Argentina HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57163
-#EXTINF:-1 tvg-id="CDOBasico.cl" tvg-name="CDO" tvg-logo="https://i.postimg.cc/XvNCGb6T/CDO-250.jpg" group-title="DEPORTES",CDO
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3117
-#EXTINF:-1 tvg-id="CDOPremium.cl" tvg-name="CDO Premium" tvg-logo="https://i.postimg.cc/6QHGCm9T/cdo.jpg" group-title="DEPORTES",CDO Premium
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/9399
-#EXTINF:-1 tvg-id="" tvg-name="Combate (Brasil)" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="DEPORTES",Combate (Brasil)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/14128
-#EXTINF:-1 tvg-id="I200.67687.schedulesdirect.org" tvg-name="Claro Sports" tvg-logo="https://i.ibb.co/YTYgjGx/d.png" group-title="DEPORTES",Claro Sports
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/39993
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sports HD" tvg-logo="https://i.ibb.co/YTYgjGx/d.png" group-title="DEPORTES",Claro Sports HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/39994
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 1 " tvg-logo="https://i.ibb.co/10Z8KvD/2560px-DAZN-1-Logo-svg.png" group-title="DEPORTES",DA*ZN 1 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/53500
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 1 HD" tvg-logo="https://i.ibb.co/10Z8KvD/2560px-DAZN-1-Logo-svg.png" group-title="DEPORTES",DA*ZN 1 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51263
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 2 " tvg-logo="https://i.ibb.co/gFySbMw/Sin-t-tulo.jpg" group-title="DEPORTES",DA*ZN 2 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/53501
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 3" tvg-logo="https://i.ibb.co/Xbt6BwT/Sin-t-tulo2.jpg" group-title="DEPORTES",DA*ZN 3
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51265
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 4" tvg-logo="https://i.ibb.co/hmtwHjC/Sin-t-tulo4.jpg" group-title="DEPORTES",DA*ZN 4
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51266
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN F1" tvg-logo="https://www.actualidadmotor.com/wp-content/uploads/2021/03/dazn-f1-logo.jpg" group-title="DEPORTES",DA*ZN F1
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/53418
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA " tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES",DA*ZN LA LIGA 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/53496
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA HD" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES",DA*ZN LA LIGA HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/53497
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA 2" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES",DA*ZN LA LIGA 2
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/53498
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA 2 HD" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES",DA*ZN LA LIGA 2 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/53499
-#EXTINF:-1 tvg-id="" tvg-name="DA*ZN Womens Football" tvg-logo="https://i.ibb.co/10Z8KvD/2560px-DAZN-1-Logo-svg.png" group-title="DEPORTES",DA*ZN Womens Football
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57278
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="D*TV SP (Arg)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",D*TV SP (Arg)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/47580
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="D*TV SP HD (arg)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",D*TV SP HD (arg)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/33608
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="D*TV SP (Chi)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",D*TV SP (Chi)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/31759
-#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="D*TV SP HD (Chi)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",D*TV SP HD (Chi)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51491
-#EXTINF:-1 tvg-id="" tvg-name="D*TV SP (Col)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",D*TV SP (Col)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/52452
-#EXTINF:-1 tvg-id="" tvg-name="D*TV SP Motor" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",D*TV SP Motor
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/52453
-#EXTINF:-1 tvg-id="" tvg-name="D*TV SP (Ecu)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",D*TV SP (Ecu)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/56979
-#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-name="D*TV SP +" tvg-logo="https://i.postimg.cc/3J0QRgcj/D.png" group-title="DEPORTES",D*TV SP +
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/31761
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="D*TV SP + HD" tvg-logo="https://i.postimg.cc/3J0QRgcj/D.png" group-title="DEPORTES",D*TV SP + HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/32680
-#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-name="D*TV SP 2" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES",D*TV SP 2
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/31760
-#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-name="D*TV SP 2 HD" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES",D*TV SP 2 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/37484
-#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-name="D*TV SP 2 FHD" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES",D*TV SP 2 FHD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/37485
-#EXTINF:-1 tvg-id="DirecTVSportsFight.us" tvg-name="D*TV SP FIGHT" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",D*TV SP FIGHT
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/52506
-#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="ES*PN ARG 1 " tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES",ES*PN ARG 1 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51157
-#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="ES*PN ARG 1 HD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES",ES*PN ARG 1 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51155
-#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="ES*PN ARG 1 FHD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES",ES*PN ARG 1 FHD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51154
-#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="ES*PN ARG 2 " tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ES*PN ARG 2 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51158
-#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="ES*PN ARG 2 HD" tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ES*PN ARG 2 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51156
-#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="ES*PN ARG 2 FHD" tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ES*PN ARG 2 FHD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/5600
-#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="ES*PN ARG 3" tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ES*PN ARG 3
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/5601
-#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="ES*PN ARG 3 HD" tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ES*PN ARG 3 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/31026
-#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="ES*PN ARG 3 FHD" tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ES*PN ARG 3 FHD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/31027
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="Es*pn Premium Argentina" tvg-logo="https://i.ibb.co/c3KSp7k/TAVI-Espn-Premium-Fox-Sports-Premium.png" group-title="DEPORTES",Es*pn Premium Argentina
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/6463
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="Es*pn Premium Argentina HD" tvg-logo="https://i.ibb.co/c3KSp7k/TAVI-Espn-Premium-Fox-Sports-Premium.png" group-title="DEPORTES",Es*pn Premium Argentina HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3085
-#EXTINF:-1 tvg-id="I605.30392.schedulesdirect.org" tvg-name="ES*PN 4" tvg-logo="https://i.postimg.cc/Dfcvzc3w/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png" group-title="DEPORTES",ES*PN 4
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50373
-#EXTINF:-1 tvg-id="I605.30392.schedulesdirect.org" tvg-name="ES*PN 4 HD" tvg-logo="https://i.postimg.cc/Dfcvzc3w/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png" group-title="DEPORTES",ES*PN 4 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50372
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-name="ES*PN 5" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/Proyecto-nuevo-1.png" group-title="DEPORTES",ES*PN 5
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/52202
-#EXTINF:-1 tvg-id="" tvg-name="ES*PN 5 HD" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/Proyecto-nuevo-1.png" group-title="DEPORTES",ES*PN 5 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/76707
-#EXTINF:-1 tvg-id="I1609.79923.schedulesdirect.org" tvg-name="ES*PN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="DEPORTES",ES*PN 6
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/54541
-#EXTINF:-1 tvg-id="I1609.79923.schedulesdirect.org" tvg-name="ES*PN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="DEPORTES",ES*PN 6 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3084
-#EXTINF:-1 tvg-id="I479.91513.schedulesdirect.org" tvg-name="ES*PN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="DEPORTES",ES*PN 7
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/37134
-#EXTINF:-1 tvg-id="I179.73935.schedulesdirect.org" tvg-name="ES*PN 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="DEPORTES",ES*PN 7 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3083
-#EXTINF:-1 tvg-id="ESPNChile.cl" tvg-name="ES*PN Chile" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ES*PN Chile
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50968
-#EXTINF:-1 tvg-id="ESPNChile.cl" tvg-name="ES*PN Chile HD" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ES*PN Chile HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51270
-#EXTINF:-1 tvg-id="" tvg-name="ES*PN Colombia" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ES*PN Colombia
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/54850
-#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="ES*PN Extra Brasil" tvg-logo="http://cdn.vizio.com/skin/frontend/enterprise/vizio/landingpages/gamedaylanding2/images/gd-apps-logo-ESPN-extra.png" group-title="DEPORTES",ES*PN Extra Brasil
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/14132
-#EXTINF:-1 tvg-id="I516.65930.schedulesdirect.org" tvg-name="ES*PN 1 Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES",ES*PN 1 Latino
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/7023
-#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="ES*PN 1 Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES",ES*PN 1 Latino HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/53419
-#EXTINF:-1 tvg-id="I558.96876.schedulesdirect.org" tvg-name="ES*PN 2 Latino" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES",ES*PN 2 Latino
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/7024
-#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="ES*PN 2 Latino HD" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES",ES*PN 2 Latino HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3075
-#EXTINF:-1 tvg-id="I516.65930.schedulesdirect.org" tvg-name="ES*PN 3 Latino" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES",ES*PN 3 Latino
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/7025
-#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="ES*PN 3 Latino HD" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES",ES*PN 3 Latino HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3077
-#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ES*PN Deportes" tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES",ES*PN Deportes
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/53387
-#EXTINF:-1 tvg-id="I885.121544.schedulesdirect.org" tvg-name="Es*pn Extra" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES",Es*pn Extra
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50010
-#EXTINF:-1 tvg-id="I885.121544.schedulesdirect.org" tvg-name="Es*pn Extra HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES",Es*pn Extra HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/54070
-#EXTINF:-1 tvg-id="I206.10179.schedulesdirect.org" tvg-name="ES*PN Usa" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES",ES*PN Usa
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/30900
-#EXTINF:-1 tvg-id="I207.16485.schedulesdirect.org" tvg-name="ES*PN News Usa" tvg-logo="https://i.ibb.co/mC80pL4/espn-news-logo.gif" group-title="DEPORTES",ES*PN News Usa
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/30902
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EU*RO*SPORTS 1" tvg-logo="https://w7.pngwing.com/pngs/917/857/png-transparent-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television-blue.png" group-title="DEPORTES",EU*RO*SPORTS 1
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51159
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EU*RO*SPORTS 1 HD" tvg-logo="https://w7.pngwing.com/pngs/917/857/png-transparent-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television-blue.png" group-title="DEPORTES",EU*RO*SPORTS 1 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51367
-#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="EU*RO*SPORTS 2" tvg-logo="http://vfes-images.ott.kaltura.com/351be6f3a78f44b6b4673c0b3e3ad570_288X162.png" group-title="DEPORTES",EU*RO*SPORTS 2
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3424
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EU*RO*SPORTS 2 HD" tvg-logo="http://vfes-images.ott.kaltura.com/351be6f3a78f44b6b4673c0b3e3ad570_288X162.png" group-title="DEPORTES",EU*RO*SPORTS 2 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51368
-#EXTINF:-1 tvg-id="" tvg-name="ECDF" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="DEPORTES",ECDF
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/52252
-#EXTINF:-1 tvg-id="" tvg-name="Fight Time" tvg-logo="https://pbs.twimg.com/profile_images/817806134702702592/fsfGoMK3_400x400.jpg" group-title="DEPORTES",Fight Time
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/6915
-#EXTINF:-1 tvg-id="" tvg-name="Flow Sports" tvg-logo="https://www.stlucianewsonline.com/wp-content/uploads/2015/11/index.png" group-title="DEPORTES",Flow Sports
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/6872
-#EXTINF:-1 tvg-id="I480.30191.schedulesdirect.org" tvg-name="Fox Sports 1 Argentina " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_fox_sports_2012.png/640px-Logo_fox_sports_2012.png" group-title="DEPORTES",Fox Sports 1 Argentina 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3082
-#EXTINF:-1 tvg-id="I120.16395.schedulesdirect.org" tvg-name="Fox Sports 1 Argentina HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_fox_sports_2012.png/640px-Logo_fox_sports_2012.png" group-title="DEPORTES",Fox Sports 1 Argentina HD 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/30935
-#EXTINF:-1 tvg-id="I608.105404.schedulesdirect.org" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/800px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTES",Fox Sports 2 Argentina
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3086
-#EXTINF:-1 tvg-id="I1608.105692.schedulesdirect.org" tvg-name="Fox Sports 2 Argentina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/800px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTES",Fox Sports 2 Argentina HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/76708
-#EXTINF:-1 tvg-id="I1609.79923.schedulesdirect.org" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="DEPORTES",Fox Sports 3 Argentina
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/76709
-#EXTINF:-1 tvg-id="I609.47374.schedulesdirect.org" tvg-name="Fox Sports 3 Argentina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="DEPORTES",Fox Sports 3 Argentina HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/76710
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="Fox Sports 1 Latino " tvg-logo="https://i.postimg.cc/5NNj4Ygj/f1lat.png" group-title="DEPORTES",Fox Sports 1 Latino 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3087
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="Fox Sports 1 Latino HD" tvg-logo="https://i.postimg.cc/5NNj4Ygj/f1lat.png" group-title="DEPORTES",Fox Sports 1 Latino HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3088
-#EXTINF:-1 tvg-id="I2.16461.schedulesdirect.org" tvg-name="Fox Sports 2 Latino " tvg-logo="https://i.postimg.cc/kg24S0km/f2lat.png" group-title="DEPORTES",Fox Sports 2 Latino 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3089
-#EXTINF:-1 tvg-id="I2.16461.schedulesdirect.org" tvg-name="Fox Sports 2 Latino HD" tvg-logo="https://i.postimg.cc/kg24S0km/f2lat.png" group-title="DEPORTES",Fox Sports 2 Latino HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3090
-#EXTINF:-1 tvg-id="I569.79923.schedulesdirect.org" tvg-name="Fox Sports 3 Latino " tvg-logo="https://i.postimg.cc/DwRzPCTb/f3lat.png" group-title="DEPORTES",Fox Sports 3 Latino 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3091
-#EXTINF:-1 tvg-id="I569.79923.schedulesdirect.org" tvg-name="Fox Sports 3 Latino HD" tvg-logo="https://i.postimg.cc/DwRzPCTb/f3lat.png" group-title="DEPORTES",Fox Sports 3 Latino HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3092
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="Fox Sports México HD" tvg-logo="https://i.postimg.cc/g0VFfsf5/fsmx.png" group-title="DEPORTES",Fox Sports México HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/5616
-#EXTINF:-1 tvg-id="FoxSportsSouth.us" tvg-name="Fox Sports Premium" tvg-logo="https://i.postimg.cc/G3jHnJkZ/f1ar.png" group-title="DEPORTES",Fox Sports Premium
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/52561
-#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="Fox Sports 2 Brasil" tvg-logo="https://i.postimg.cc/zGYhJXyQ/sp-br.png" group-title="DEPORTES",Fox Sports 2 Brasil
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/14134
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 USA" tvg-logo="https://i.postimg.cc/G3jHnJkZ/f1ar.png" group-title="DEPORTES",Fox Sports 2 USA
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/56087
-#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Formula 1 HD" tvg-logo="https://soymotor.com/sites/default/files/styles/mega/public/imagenes/noticia/dazn-movistar-f1-television-2021-soymtoor-2.jpg" group-title="DEPORTES",Formula 1 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/38487
-#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="Gol Peru" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="DEPORTES",Gol Peru
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/14029
-#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="Gol Peru HD" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="DEPORTES",Gol Peru HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3098
-#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3099
-#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="Golf Channel HD" tvg-logo="https://i.postimg.cc/YSSSbNKy/Daco-2104238.png" group-title="DEPORTES",Golf Channel HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/38903
-#EXTINF:-1 tvg-id="" tvg-name="GOLTV" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/GolTV.JPG" group-title="DEPORTES",GOLTV
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57191
-#EXTINF:-1 tvg-id="" tvg-name="GolTV Ecuador HD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/GolTV.JPG" group-title="DEPORTES",GolTV Ecuador HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3095
-#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Perú" tvg-logo="https://tiermaker.com/images/templates/camisetas-liga1-per-2022-suplente-y-especiales--15374014/153740141665267601.png" group-title="DEPORTES",Liga 1 Perú
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/56088
-#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Max Perú" tvg-logo="https://tiermaker.com/images/templates/camisetas-liga1-per-2022-suplente-y-especiales--15374014/153740141665267601.png" group-title="DEPORTES",Liga 1 Max Perú
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/56089
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Deportes España
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3100
-#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Movistar Deportes Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Deportes Peru
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3102
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Vamos
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/30360
-#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Movistar Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES",Movistar Golf HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3103
-#EXTINF:-1 tvg-id="" tvg-name="Movistar La Liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar La Liga
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50584
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga De Campeones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Liga De Campeones
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/49752
-#EXTINF:-1 tvg-id="I213.62081.schedulesdirect.org" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/38900
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network 2" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 2
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/49190
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network 3" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 3
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/49191
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network 4" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 4
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/52073
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network 5" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 5
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/76978
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network 6" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" group-title="DEPORTES",MLB Network 6
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/76979
-#EXTINF:-1 tvg-id="" tvg-name="M*L*S 1" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2021/06/21/liga-comenzara-finales-marzo-imagen-1.jpg" group-title="DEPORTES",M*L*S 1
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51474
-#EXTINF:-1 tvg-id="" tvg-name="M*L*S 2" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2021/06/21/liga-comenzara-finales-marzo-imagen-1.jpg" group-title="DEPORTES",M*L*S 2
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57109
-#EXTINF:-1 tvg-id="I216.32281.schedulesdirect.org" tvg-name="NBA TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/NBATV.png" group-title="DEPORTES",NBA TV
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3104
-#EXTINF:-1 tvg-id="I676.32281.schedulesdirect.org" tvg-name="NBA Network" tvg-logo="https://sc.dish.com/shared/images/station-logos/NBATV.png" group-title="DEPORTES",NBA Network
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50943
-#EXTINF:-1 tvg-id="" tvg-name="NBA (Solo Eventos)" tvg-logo="https://sc.dish.com/shared/images/station-logos/NBATV.png" group-title="DEPORTES",NBA (Solo Eventos)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/76980
-#EXTINF:-1 tvg-id="" tvg-name="NBA (Solo Eventos 2)" tvg-logo="https://sc.dish.com/shared/images/station-logos/NBATV.png" group-title="DEPORTES",NBA (Solo Eventos 2)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/76981
-#EXTINF:-1 tvg-id="I215.58690.schedulesdirect.org" tvg-name="NHL Network" tvg-logo="https://www.seekpng.com/png/full/141-1414099_national-hockey-league-logo-1917-1938-nhl-logo.png" group-title="DEPORTES",NHL Network
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/47581
-#EXTINF:-1 tvg-id="I212.45399.schedulesdirect.org" tvg-name="NFL Network" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-nfl-network-9913.jpg" group-title="DEPORTES",NFL Network
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/43879
-#EXTINF:-1 tvg-id="" tvg-name="NFL Channel" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/ae/b6/ceaeb6b1-b0c5-1d7a-e9ca-3405a8c933d6/AppIcon-release-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" group-title="DEPORTES",NFL Channel
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/43878
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clube (Brasil)" tvg-logo="http://www.atualeletronica.com.br/sistema/images/01042019-121344-banners-pacotes-premiere.png" group-title="DEPORTES",Premiere Clube (Brasil)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/14129
-#EXTINF:-1 tvg-id="" tvg-name="PGA Tour" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fpga_tour.png" group-title="DEPORTES",PGA Tour
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51475
-#EXTINF:-1 tvg-id="" tvg-name="Sporting Club Chile" tvg-logo="https://media.licdn.com/dms/image/C560BAQEMbVBwIAFpqA/company-logo_200_200/0?e=2159024400&v=beta&t=WIFFwrGlCuS3rLWj9Ai3JaogcqpEWmgDv1NQVtq7zVY" group-title="DEPORTES",Sporting Club Chile
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/6331
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="Sportv " tvg-logo="https://i.ibb.co/T4674Kw/1200px-Spor-TV-2017-logo-svg.png" group-title="DEPORTES",Sportv 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/33328
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv  2" tvg-logo="https://i.ibb.co/T4674Kw/1200px-Spor-TV-2017-logo-svg.png" group-title="DEPORTES",Sportv  2
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/49187
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="Sportv 3" tvg-logo="https://i.ibb.co/T4674Kw/1200px-Spor-TV-2017-logo-svg.png" group-title="DEPORTES",Sportv 3
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/49188
-#EXTINF:-1 tvg-id="" tvg-name="Sportv 3 HD" tvg-logo="https://i.ibb.co/T4674Kw/1200px-Spor-TV-2017-logo-svg.png" group-title="DEPORTES",Sportv 3 HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/56010
-#EXTINF:-1 tvg-id="" tvg-name="STAR +1" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +1
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50006
-#EXTINF:-1 tvg-id="" tvg-name="STAR +2" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +2
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50007
-#EXTINF:-1 tvg-id="" tvg-name="STAR +3" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +3
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50009
-#EXTINF:-1 tvg-id="" tvg-name="STAR +4" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +4
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50008
-#EXTINF:-1 tvg-id="" tvg-name="STAR +5" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",STAR +5
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50481
-#EXTINF:-1 tvg-id="" tvg-name="S*K*Y 1" tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png" group-title="DEPORTES",S*K*Y 1
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51267
-#EXTINF:-1 tvg-id="" tvg-name="S*K*Y Sports F1" tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png" group-title="DEPORTES",S*K*Y Sports F1
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57308
-#EXTINF:-1 tvg-id="" tvg-name="S*K*Y Sports Main Event" tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png" group-title="DEPORTES",S*K*Y Sports Main Event
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51268
-#EXTINF:-1 tvg-id="" tvg-name="S*K*Y Sports Arena" tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png" group-title="DEPORTES",S*K*Y Sports Arena
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/51269
-#EXTINF:-1 tvg-id="" tvg-name="TD+" tvg-logo="https://i.ibb.co/Zmrt5zF/2w-I2-B-TY-400x400.jpg" group-title="DEPORTES",TD+
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/30477
-#EXTINF:-1 tvg-id="" tvg-name="TD+2" tvg-logo="https://i.ibb.co/D4Ryh8M/1200px-TD-M-s-2-Logo-svg.png" group-title="DEPORTES",TD+2
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/30478
-#EXTINF:-1 tvg-id="I477.47486.schedulesdirect.org" tvg-name="Teletrak Chile" tvg-logo="http://www.teletrak.cl/imagenes/logo2.png" group-title="DEPORTES",Teletrak Chile
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/7009
-#EXTINF:-1 tvg-id="" tvg-name="TV Turf" tvg-logo="http://tvturf.cl/tvturf/site/artic/20181221/imag/foto_0000000120181221154000/logo_tvturf.png" group-title="DEPORTES",TV Turf
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/30915
-#EXTINF:-1 tvg-id="I217.33395.schedulesdirect.org" tvg-name="Tennis Channel USA HD" tvg-logo="https://i.postimg.cc/Jh2PsPGL/tennis.jpg" group-title="DEPORTES",Tennis Channel USA HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3108
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57134
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Bolivia" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports Bolivia
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3123
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 2 Bolivia" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports 2 Bolivia
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/56860
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 3 Bolivia" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports 3 Bolivia
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/7092
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Costa Rica" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports Costa Rica
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3125
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Guatemala" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports Guatemala
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/55825
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Honduras" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports Honduras
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3124
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Paraguay (Solo Partidos)" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="DEPORTES",Tigo Sports Paraguay (Solo Partidos)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3122
-#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_(2016-_).png" group-title="DEPORTES",TVC Deportes
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/13689
-#EXTINF:-1 tvg-id="" tvg-name="Deportes TVC" tvg-logo="https://www.deportestvc.com/images/home/logo-white-yellow.png" group-title="DEPORTES",Deportes TVC
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/77400
-#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="TyC Sports" tvg-logo="http://1.bp.blogspot.com/-lfBqQgLIqeo/VkLMvxnL7ZI/AAAAAAAAS8I/0ZShko69LPA/s1600/zrtn_021p4fd1d019_tn.jpg" group-title="DEPORTES",TyC Sports
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/5582
-#EXTINF:-1 tvg-id="I126.123195.schedulesdirect.org" tvg-name="TyC Sports HD" tvg-logo="http://1.bp.blogspot.com/-lfBqQgLIqeo/VkLMvxnL7ZI/AAAAAAAAS8I/0ZShko69LPA/s1600/zrtn_021p4fd1d019_tn.jpg" group-title="DEPORTES",TyC Sports HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3110
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://www.chillglobal.com/images/channels/teledeporte-1432657347.jpg" group-title="DEPORTES",Teledeporte
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/49493
-#EXTINF:-1 tvg-id="" tvg-name="TVG Network" tvg-logo="https://cdn.pastthewire.com/wp-content/uploads/2020/09/TVG_Logo.jpg" group-title="DEPORTES",TVG Network
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50004
-#EXTINF:-1 tvg-id="" tvg-name="TVG 2 Network " tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tvg2.png" group-title="DEPORTES",TVG 2 Network 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50005
-#EXTINF:-1 tvg-id="" tvg-name="TU*DN" tvg-logo="https://i.ibb.co/T1ymgkP/1200x630wa.png" group-title="DEPORTES",TU*DN
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57110
-#EXTINF:-1 tvg-id="" tvg-name="UFC Network" tvg-logo="https://www.newslinereport.com/online/nota_ufc-networks-se-expande-en-la-regin.jpg" group-title="DEPORTES",UFC Network
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3112
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/sites/5/2020/07/UFCFightPass_FightPass_738x410.jpg" group-title="DEPORTES",UFC Fight Pass
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50530
-#EXTINF:-1 tvg-id="I153.18098.schedulesdirect.org" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/7715
-#EXTINF:-1 tvg-id="I496.87031.schedulesdirect.org" tvg-name="Win Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/3115
-#EXTINF:-1 tvg-id="I496.87031.schedulesdirect.org" tvg-name="Win Sports+" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports+
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/15348
-#EXTINF:-1 tvg-id="I153.18098.schedulesdirect.org" tvg-name="Win Sports+ (op2)" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports+ (op2)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/37305
-#EXTINF:-1 tvg-id="I895.87031.schedulesdirect.org" tvg-name="Win Sports+ HD" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports+ HD
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/15349
-#EXTINF:-1 tvg-id="I496.87031.schedulesdirect.org" tvg-name="Win Sports+ FHD (conexiones rápidas)" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports+ FHD (conexiones rápidas)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/50262
-#EXTINF:-1 tvg-id="" tvg-name="W*W*E " tvg-logo="https://i.ibb.co/J3b6FGw/RESEM87300wwenetwork.jpg" group-title="DEPORTES",W*W*E 
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/31856
-#EXTINF:-1 tvg-id="" tvg-name="YES Network USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/YES_Network_logo.png" group-title="DEPORTES",YES Network USA
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/6349
-#EXTINF:-1 tvg-id="" tvg-name="Sports Net 1 (Canada)" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_SportsnetOne.png" group-title="DEPORTES",Sports Net 1 (Canada)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/56054
-#EXTINF:-1 tvg-id="" tvg-name="Sports Net Ontario (Canada)" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_SportsnetOne.png" group-title="DEPORTES",Sports Net Ontario (Canada)
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/56055
-#EXTINF:-1 tvg-id="" tvg-name="FuTV" tvg-logo="https://www.larepublica.net/storage/images/2020/07/20/20200720191227.20200709160812futv.jpg" group-title="DEPORTES",FuTV
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57436
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="DEPORTES",Red Bull TV
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/71434
-#EXTINF:-1 tvg-id="" tvg-name="PANAM SPORTS" tvg-logo="https://cdn.santiago2023.org/uploads/images/a80c9e95c05fa41543a0470a2243b33d.jpeg" group-title="DEPORTES",PANAM SPORTS
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57834
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports" tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" group-title="DEPORTES",Dubai Sports
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/30454
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 2" tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" group-title="DEPORTES",Dubai Sports 2
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/30455
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports USA" tvg-logo="https://i.postimg.cc/G3jHnJkZ/f1ar.png" group-title="DEPORTES",Fox Sports USA
+#EXTINF:-1 tvg-id="" tvg-name="MX: La Liga Movistar" tvg-logo="http://mstrtv.com:25461/images/5cbefee63df630ddf36c72f3c8176cf6.png" group-title="DEPORTES ",MX: La Liga Movistar
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49971
+#EXTINF:-1 tvg-id="fox.soccer.plus.us" tvg-name="MX: Fox Soccer plus " tvg-logo="http://mstrtv.com:25461/images/20d2842c3092c9d6d6707ce99e7053db.png" group-title="DEPORTES ",MX: Fox Soccer plus 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49961
+#EXTINF:-1 tvg-id="" tvg-name="MX: Tyc Sports " tvg-logo="http://mstrtv.com:25461/images/de89d0350541eeff79d01e3b3e3aab3f.png" group-title="DEPORTES ",MX: Tyc Sports 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49947
+#EXTINF:-1 tvg-id="" tvg-name="MX: Dragon Ball Super " tvg-logo="http://mstrtv.com:25461/images/1770d19fc0350bf0f8b4445c906c1111.png" group-title="ZONA 24/7 ",MX: Dragon Ball Super 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49939
+#EXTINF:-1 tvg-id="" tvg-name="MX: La Liga DAZN" tvg-logo="http://mstrtv.com:25461/images/8b598ebfb139dde37f6cdae5b8d187a9.png" group-title="DEPORTES ",MX: La Liga DAZN
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49930
+#EXTINF:-1 tvg-id="tudn.mexico.mx" tvg-name="MX: TUDN.." tvg-logo="http://mstrtv.com:25461/images/d3f529eaab38130ef7870928a3be689b.png" group-title="DEPORTES ",MX: TUDN..
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49929
+#EXTINF:-1 tvg-id="" tvg-name="a-ha MTV Unplugged - Summer Solstice - Inglés" tvg-logo="http://mstrtv.com:25461/images/vdxZ0ZDP3qFjjzZhgzTLHwrgoAO6S73T.jpg" group-title="CONCIERTOS",a-ha MTV Unplugged - Summer Solstice - Inglés
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bee Gees: One Night Only" tvg-logo="http://mstrtv.com:25461/images/5reUwahhwBykhyokPYp2rvqi6Q8vDvQO.jpg" group-title="CONCIERTOS",Bee Gees: One Night Only
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Billy Joel: The Essential Video Collection" tvg-logo="http://mstrtv.com:25461/images/ptclQV3WavzTW1PP0y6vg54WTYDmKskW.jpg" group-title="CONCIERTOS",Billy Joel: The Essential Video Collection
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bon Jovi: Rock in Rio 2017" tvg-logo="http://mstrtv.com:25461/images/Qo8jXn12L1sfOWjN7YDjf2IS1tk5hp5B.jpg" group-title="CONCIERTOS",Bon Jovi: Rock in Rio 2017
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Marley: The Legend Live Santa Barbara County Bowl" tvg-logo="http://mstrtv.com:25461/images/sKiEvtOJgIJsQSoe4348JKz01DCWD1Pg.jpg" group-title="CONCIERTOS",Bob Marley: The Legend Live Santa Barbara County Bowl
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago and Earth, Wind and Fire - Heart and Soul Tour 2015" tvg-logo="http://mstrtv.com:25461/images/aQscG6Bz7bHvhCosUYUYsLZBjTWDupkm.jpg" group-title="CONCIERTOS",Chicago and Earth, Wind and Fire - Heart and Soul Tour 2015
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eagles: Hell Freezes Over" tvg-logo="http://mstrtv.com:25461/images/gQwEgl5fkm1xvToaJKAVxLbv68WG2Aw5.jpg" group-title="CONCIERTOS",Eagles: Hell Freezes Over
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eric Clapton: Wonderful Tonight - Live in Japan 2009" tvg-logo="http://mstrtv.com:25461/images/HtKLyYToPtLmVqtfbDktm4vhldshxQZ5.jpg" group-title="CONCIERTOS",Eric Clapton: Wonderful Tonight - Live in Japan 2009
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guns N Roses - Live in Paris" tvg-logo="http://mstrtv.com:25461/images/PgPc0Uex922018aB4Pc4AS5zCI6jct3p.jpg" group-title="CONCIERTOS",Guns N Roses - Live in Paris
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guns N Roses: Live Tokyo 92" tvg-logo="http://mstrtv.com:25461/images/i3R6VALOj2h43ntSlzyhkC6KlPrnUJzr.jpg" group-title="CONCIERTOS",Guns N Roses: Live Tokyo 92
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hombres G: En Directo Las Ventas 1 de Julio 2003" tvg-logo="http://mstrtv.com:25461/images/MTvGTbnuE9jjJAf7OiIdtkRH6Y2447CP.jpg" group-title="CONCIERTOS",Hombres G: En Directo Las Ventas 1 de Julio 2003
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Linkin Park - Live in Texas" tvg-logo="http://mstrtv.com:25461/images/jK5GxbqHEYldrVNVmazgHE0SprrxlyVl.jpg" group-title="CONCIERTOS",Linkin Park - Live in Texas
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Linkin Park: Road to Revolution" tvg-logo="http://mstrtv.com:25461/images/qxQ4wpWOyDQLGdyltlJ9lMSakbEP4E5v.jpg" group-title="CONCIERTOS",Linkin Park: Road to Revolution
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariah Carey: The Adventures of Mimi" tvg-logo="http://mstrtv.com:25461/images/O4cp8UPVK0Iut2by68CUzH7jnoPZmeSE.jpg" group-title="CONCIERTOS",Mariah Carey: The Adventures of Mimi
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metallica: Français pour une nuit" tvg-logo="http://mstrtv.com:25461/images/oQoMrQLKuADjPQ21h4kxmvYqsJ1v741d.jpg" group-title="CONCIERTOS",Metallica: Français pour une nuit
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Michael Jackson: Number Ones" tvg-logo="http://mstrtv.com:25461/images/5d5PTmFGtxmR3yXu4OwMvun5iLybZYrO.jpg" group-title="CONCIERTOS",Michael Jackson: Number Ones
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miguel Mateos - En Primera Fila" tvg-logo="http://mstrtv.com:25461/images/MN37vkgz5F0x62wvfBCn9BpEQFUU3EBa.jpg" group-title="CONCIERTOS",Miguel Mateos - En Primera Fila
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonwalker" tvg-logo="http://mstrtv.com:25461/images/z51iBku24MRwH8GrQWkQ9hXhgaDZwczn.jpg" group-title="CONCIERTOS",Moonwalker
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scorpions: Acoustica" tvg-logo="http://mstrtv.com:25461/images/WM0O6k1zuAO5sL1zVwWzNTlG2tWKIZ1I.jpg" group-title="CONCIERTOS",Scorpions: Acoustica
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scorpions: Live at Wacken Open Air 2006" tvg-logo="http://mstrtv.com:25461/images/sbMtopaUnO6HQuFFo2F35BjxvQQwxetE.jpg" group-title="CONCIERTOS",Scorpions: Live at Wacken Open Air 2006
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andrea Bocelli - Tuscan Skies" tvg-logo="http://mstrtv.com:25461/images/g91HGPZVyJcAK6QOykmhWthmksMaJjY2.jpg" group-title="CONCIERTOS",Andrea Bocelli - Tuscan Skies
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ABBA - The Show a Tribute to " tvg-logo="http://mstrtv.com:25461/images/U0eX1KbZ23pyCJIUndCyXZ0coM6e7hnO.jpg" group-title="CONCIERTOS",ABBA - The Show a Tribute to 
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whitney Houston: Live in Concert" tvg-logo="http://mstrtv.com:25461/images/Lw0CFoMN0pjowwUCwK6OnKgD4q9wj6HU.jpg" group-title="CONCIERTOS",Whitney Houston: Live in Concert
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MX: Pasiones " tvg-logo="http://mstrtv.com:25461/images/bef44882a9117f008bed16d6ffcc4dd1.png" group-title="ENTRETENIMIENTO ",MX: Pasiones 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49512
+#EXTINF:-1 tvg-id="" tvg-name="MX: Win sports " tvg-logo="http://mstrtv.com:25461/images/1c6e98a76ac6b0d0132cf5dc85b595c8.png" group-title="DEPORTES ",MX: Win sports 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49508
+#EXTINF:-1 tvg-id="unimas.network.eastern.us" tvg-name="USA: Unimas " tvg-logo="http://mstrtv.com:25461/images/bcbfa29b4f2dfd72361faac5fe93078e.png" group-title="LIVE TV USA",USA: Unimas 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49466
+#EXTINF:-1 tvg-id="travel.east.us" tvg-name="USA: Travel Channel " tvg-logo="http://mstrtv.com:25461/images/33937f0216ccbcb8e6d6f070e19a967f.png" group-title="LIVE TV USA",USA: Travel Channel 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49464
+#EXTINF:-1 tvg-id="tnt.eastern.us" tvg-name="USA: TNT" tvg-logo="http://mstrtv.com:25461/images/9b858af4616d0b9299a69f3dd6309402.png" group-title="LIVE TV USA",USA: TNT
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49463
+#EXTINF:-1 tvg-id="the.tennis.us" tvg-name="MX: Tennis Channel " tvg-logo="http://mstrtv.com:25461/images/d836c036582640f62007aea93bb1e61d.png" group-title="DEPORTES ",MX: Tennis Channel 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49460
+#EXTINF:-1 tvg-id="the.tennis.us" tvg-name="USA: Tennis Channel " tvg-logo="http://mstrtv.com:25461/images/d836c036582640f62007aea93bb1e61d.png" group-title="LIVE TV USA",USA: Tennis Channel 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49459
+#EXTINF:-1 tvg-id="tbs.east.us" tvg-name="USA: TBS " tvg-logo="http://mstrtv.com:25461/images/c9266f2a97c4120a9ab961dd0c9534e6.png" group-title="LIVE TV USA",USA: TBS 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49458
+#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="USA: SyFy" tvg-logo="http://mstrtv.com:25461/images/d951c2793c1258e7587f3d9608dbb3aa.png" group-title="LIVE TV USA",USA: SyFy
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49457
+#EXTINF:-1 tvg-id="sundancetv.usa.east.us" tvg-name="USA: Sundance " tvg-logo="http://mstrtv.com:25461/images/9d83a76d441a68e9ae62665a319b1d76.png" group-title="LIVE TV USA",USA: Sundance 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49456
+#EXTINF:-1 tvg-id="showtime.eastern.us" tvg-name="USA: Showtime " tvg-logo="http://mstrtv.com:25461/images/74377995a03a199caa8e11c7c6ba6648.png" group-title="LIVE TV USA",USA: Showtime 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49452
+#EXTINF:-1 tvg-id="nfl.network.us" tvg-name="MX: NFL Network" tvg-logo="http://mstrtv.com:25461/images/1a5c588f04f36e012a19c5cac3b90860.png" group-title="DEPORTES ",MX: NFL Network
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49442
+#EXTINF:-1 tvg-id="nfl.network.us" tvg-name="USA: NFL Network" tvg-logo="http://mstrtv.com:25461/images/1a5c588f04f36e012a19c5cac3b90860.png" group-title="LIVE TV USA",USA: NFL Network
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49441
+#EXTINF:-1 tvg-id="nbc.universo.eastern.us" tvg-name="USA: NBC Universo " tvg-logo="http://mstrtv.com:25461/images/46bffa1fa02a61b34594891ec858f18f.png" group-title="LIVE TV USA",USA: NBC Universo 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49440
+#EXTINF:-1 tvg-id="golf.usa.us" tvg-name="USA: NBC Golf " tvg-logo="http://mstrtv.com:25461/images/4b76f2cb0fd29261c095ce6cb944c025.png" group-title="LIVE TV USA",USA: NBC Golf 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49438
+#EXTINF:-1 tvg-id="nba.usa.us" tvg-name="MX: NBA TV " tvg-logo="http://mstrtv.com:25461/images/eea6a446500723d76fb23b683efd5286.png" group-title="DEPORTES ",MX: NBA TV 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49436
+#EXTINF:-1 tvg-id="nba.usa.us" tvg-name="USA: NBA TV" tvg-logo="http://mstrtv.com:25461/images/eea6a446500723d76fb23b683efd5286.png" group-title="LIVE TV USA",USA: NBA TV
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49435
+#EXTINF:-1 tvg-id="national.geographic.wild.us" tvg-name="USA: Nat Geo Wiild " tvg-logo="http://mstrtv.com:25461/images/287ff0ce22687ce432b075ab0a499b8c.png" group-title="LIVE TV USA",USA: Nat Geo Wiild 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49434
+#EXTINF:-1 tvg-id="national.geographic.eastern.us" tvg-name="USA: Nat Geo" tvg-logo="http://mstrtv.com:25461/images/287ff0ce22687ce432b075ab0a499b8c.png" group-title="LIVE TV USA",USA: Nat Geo
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49433
+#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="USA: MTV " tvg-logo="http://mstrtv.com:25461/images/7fd96e25f4c03554d22d936c7f45ff2c.png" group-title="LIVE TV USA",USA: MTV 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49431
+#EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="USA: MSNBC " tvg-logo="http://mstrtv.com:25461/images/86ac04bdfd1bfecc535f0297b7eef000.png" group-title="LIVE TV USA",USA: MSNBC 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49430
+#EXTINF:-1 tvg-id="lifetime.network.eastern.us" tvg-name="USA: Lifetime " tvg-logo="http://mstrtv.com:25461/images/d822ee2daab28809ae6281d50d168a9d.png" group-title="LIVE TV USA",USA: Lifetime 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49425
+#EXTINF:-1 tvg-id="history.eastern.us" tvg-name="USA: History Channel " tvg-logo="http://mstrtv.com:25461/images/5120e2c82320ba6a7ef7ac079a1c4c33.png" group-title="LIVE TV USA",USA: History Channel 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49421
+#EXTINF:-1 tvg-id="hgtv.usa.eastern.us" tvg-name="USA: HGTV " tvg-logo="http://mstrtv.com:25461/images/c359445a93682b6b9df8bc2d92eba2e0.png" group-title="LIVE TV USA",USA: HGTV 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49420
+#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="USA: HBO " tvg-logo="http://mstrtv.com:25461/images/ffb69ed5f4e8ccbc5fbb9c62da1f5cf0.png" group-title="LIVE TV USA",USA: HBO 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49415
+#EXTINF:-1 tvg-id="hallmark.movies.mysteries.eastern.us" tvg-name="USA: Hallmark Movies" tvg-logo="http://mstrtv.com:25461/images/f90695fe9e31513ab963f45671b9d5f5.png" group-title="LIVE TV USA",USA: Hallmark Movies
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49414
+#EXTINF:-1 tvg-id="hallmark.eastern.us" tvg-name="USA: Hallmark " tvg-logo="http://mstrtv.com:25461/images/f90695fe9e31513ab963f45671b9d5f5.png" group-title="LIVE TV USA",USA: Hallmark 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49413
+#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="USA: FXX" tvg-logo="http://mstrtv.com:25461/images/3fac061ae97db259d8559afeba25b6bf.png" group-title="LIVE TV USA",USA: FXX
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49409
+#EXTINF:-1 tvg-id="fx.movie.us" tvg-name="USA: FXM" tvg-logo="http://mstrtv.com:25461/images/0aa079c61514fe5398892ea50db796d8.png" group-title="LIVE TV USA",USA: FXM
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49408
+#EXTINF:-1 tvg-id="fx.networks.east.coast.us" tvg-name="USA: FX " tvg-logo="http://mstrtv.com:25461/images/fcdd55916ce52a72aabfd51f22a55c2a.png" group-title="LIVE TV USA",USA: FX 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49407
+#EXTINF:-1 tvg-id="fox.deportes.us" tvg-name="USA: Fox Deportes " tvg-logo="http://mstrtv.com:25461/images/963bc14d8c38979e8f600a63b22673f8.png" group-title="LIVE TV USA",USA: Fox Deportes 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49403
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="USA: FS2" tvg-logo="http://mstrtv.com:25461/images/5e5db71de3b573ad0f7c3f0d790636f4.png" group-title="LIVE TV USA",USA: FS2
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49402
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="USA: FS1" tvg-logo="http://mstrtv.com:25461/images/a6607860044eacc51acd76cfbc08d2f3.png" group-title="LIVE TV USA",USA: FS1
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49401
+#EXTINF:-1 tvg-id="food.network.usa.eastern.us" tvg-name="USA: Food Network " tvg-logo="http://mstrtv.com:25461/images/8f5f4c328ed6de5f75c22de0297c35c6.png" group-title="LIVE TV USA",USA: Food Network 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49398
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="USA: ESPN U" tvg-logo="http://mstrtv.com:25461/images/4df6edded9ba777a1b9418c1f5ed26f1.png" group-title="LIVE TV USA",USA: ESPN U
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49397
+#EXTINF:-1 tvg-id="espn.deportes.us" tvg-name="USA: ESPN Deportes" tvg-logo="http://mstrtv.com:25461/images/4df6edded9ba777a1b9418c1f5ed26f1.png" group-title="LIVE TV USA",USA: ESPN Deportes
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49396
+#EXTINF:-1 tvg-id="espn.news.us" tvg-name="USA: ESPN News " tvg-logo="http://mstrtv.com:25461/images/4df6edded9ba777a1b9418c1f5ed26f1.png" group-title="LIVE TV USA",USA: ESPN News 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49395
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="USA: ESPN 2" tvg-logo="http://mstrtv.com:25461/images/4df6edded9ba777a1b9418c1f5ed26f1.png" group-title="LIVE TV USA",USA: ESPN 2
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49394
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA: ESPN" tvg-logo="http://mstrtv.com:25461/images/4df6edded9ba777a1b9418c1f5ed26f1.png" group-title="LIVE TV USA",USA: ESPN
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49393
+#EXTINF:-1 tvg-id="next.level.sports.us" tvg-name="USA: Next Level & Sports Ent " tvg-logo="http://mstrtv.com:25461/images/228646bc7e717f1c51da4cd5d8e0b792.png" group-title="LIVE TV USA",USA: Next Level & Sports Ent 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49392
+#EXTINF:-1 tvg-id="e.entertainment.usa.eastern.us" tvg-name="USA: E ! " tvg-logo="http://mstrtv.com:25461/images/99599b3a67c0dbdbafbf406b79fd1735.png" group-title="LIVE TV USA",USA: E ! 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49391
+#EXTINF:-1 tvg-id="science.us" tvg-name="USA: Discovery Science " tvg-logo="http://mstrtv.com:25461/images/a873ef59f1068b647499d714d217aa97.png" group-title="LIVE TV USA",USA: Discovery Science 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49389
+#EXTINF:-1 tvg-id="discovery.family.us" tvg-name="USA: Discovery Family " tvg-logo="http://mstrtv.com:25461/images/a873ef59f1068b647499d714d217aa97.png" group-title="LIVE TV USA",USA: Discovery Family 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49387
+#EXTINF:-1 tvg-id="discovery.eastern.us" tvg-name="USA: Discovery Channel " tvg-logo="http://mstrtv.com:25461/images/a873ef59f1068b647499d714d217aa97.png" group-title="LIVE TV USA",USA: Discovery Channel 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49386
+#EXTINF:-1 tvg-id="destination.america.us" tvg-name="USA: Destination America " tvg-logo="http://mstrtv.com:25461/images/eef37884cdfd6b0bde80e1e8df2bf9d2.png" group-title="LIVE TV USA",USA: Destination America 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49385
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE CW Tampa bay" tvg-logo="http://mstrtv.com:25461/images/d8e376852ced63415f2365c2621ffadd.png" group-title="LIVE TV USA",USA: THE CW Tampa bay
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49384
+#EXTINF:-1 tvg-id="the.cooking.us" tvg-name="USA: Cooking Channel " tvg-logo="http://mstrtv.com:25461/images/ed275deeba7cf10a6727254255a831ea.png" group-title="LIVE TV USA",USA: Cooking Channel 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49382
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="USA: CNN" tvg-logo="http://mstrtv.com:25461/images/d361bf789a4e705e3d1b52391b20c0b8.png" group-title="LIVE TV USA",USA: CNN
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49380
+#EXTINF:-1 tvg-id="cinemax.eastern.us" tvg-name="USA: Cinemax " tvg-logo="http://mstrtv.com:25461/images/a44394590736dea2bc659b5fb8182c2a.png" group-title="LIVE TV USA",USA: Cinemax 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49377
+#EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="MX: CBS Sports Network " tvg-logo="http://mstrtv.com:25461/images/9d5be362eec5e5a94d11bb2325f34b7f.png" group-title="DEPORTES ",MX: CBS Sports Network 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49376
+#EXTINF:-1 tvg-id="bein.sport.usa.us" tvg-name="USA: Bein Sports " tvg-logo="http://mstrtv.com:25461/images/c6d9300f2344e2b848ad1be11fbd923d.png" group-title="LIVE TV USA",USA: Bein Sports 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49371
+#EXTINF:-1 tvg-id="animal.planet.east.us" tvg-name="USA: Animal Planet " tvg-logo="http://mstrtv.com:25461/images/58be58535c67b7da6e245754bd39ff76.png" group-title="LIVE TV USA",USA: Animal Planet 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49369
+#EXTINF:-1 tvg-id="american.heroes.us" tvg-name="USA: American Heroes " tvg-logo="http://mstrtv.com:25461/images/e52efb9ea2fc0f7c54656e0151a498e0.png" group-title="LIVE TV USA",USA: American Heroes 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49368
+#EXTINF:-1 tvg-id="a.e.eastern.us" tvg-name="USA: A&E" tvg-logo="http://mstrtv.com:25461/images/aeaf5bcc5213517e081ac44fcd170323.png" group-title="LIVE TV USA",USA: A&E
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49364
+#EXTINF:-1 tvg-id="space.mx" tvg-name="MX: Space" tvg-logo="http://mstrtv.com:25461/images/5a2cbd7d1be8099d54458b43d2b534fd.png" group-title="PELICULAS ",MX: Space
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49348
+#EXTINF:-1 tvg-id="el.nu9ve.mx" tvg-name="MX: Nu9ve" tvg-logo="http://mstrtv.com:25461/images/b3969ac950a894eb2e487694e00f7896.png" group-title="LOCALES ",MX: Nu9ve
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49347
+#EXTINF:-1 tvg-id="film.arts.mx" tvg-name="MX: Films & Arts " tvg-logo="http://mstrtv.com:25461/images/dea9f49a2e07be211bcd3aa6d247744e.png" group-title="PELICULAS ",MX: Films & Arts 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49345
+#EXTINF:-1 tvg-id="history.mx.mx" tvg-name="MX: History Channel " tvg-logo="http://mstrtv.com:25461/images/5120e2c82320ba6a7ef7ac079a1c4c33.png" group-title="CULTURA ",MX: History Channel 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49342
+#EXTINF:-1 tvg-id="distrito.comedia.mx" tvg-name="MX: Distrito Comedia " tvg-logo="http://mstrtv.com:25461/images/c7e8d509b3a5b4046ed5a6616819cbb0.png" group-title="ENTRETENIMIENTO ",MX: Distrito Comedia 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49341
+#EXTINF:-1 tvg-id="las.estrellas.mx" tvg-name="MX: Las Estrellas." tvg-logo="http://mstrtv.com:25461/images/3d1ca75723977d3405d9fea52fc477a9.png" group-title="LOCALES ",MX: Las Estrellas.
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49298
+#EXTINF:-1 tvg-id="" tvg-name="Rammstein - Maxidrom Festival 2016" tvg-logo="http://mstrtv.com:25461/images/SBPihya3ByR4aCG9Oe9GxA1khJo8fDwg.jpg" group-title="CONCIERTOS",Rammstein - Maxidrom Festival 2016
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Queen Live at Wembley Stadium" tvg-logo="http://mstrtv.com:25461/images/oMm7zqgbgXFxviBunPpe9BJq1w0rGkXI.jpg" group-title="CONCIERTOS",Queen Live at Wembley Stadium
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bon Jovi: Rock In Rio 2013" tvg-logo="http://mstrtv.com:25461/images/Ni7rOo6mfdFbrNX8YPkuQZX8LtMHOMBF.jpg" group-title="CONCIERTOS",Bon Jovi: Rock In Rio 2013
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Molotov Iin Sziget 2012" tvg-logo="http://mstrtv.com:25461/images/oDJsEJkmVYYCd11aiurt92yx5Ijg7liq.jpg" group-title="CONCIERTOS",Molotov Iin Sziget 2012
+http://mstrtv.com:25461/movie/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/49317.mp4
+#EXTINF:-1 tvg-id="a.e.mexico.mx" tvg-name="MX: A&E" tvg-logo="http://mstrtv.com:25461/images/aeaf5bcc5213517e081ac44fcd170323.png" group-title="ENTRETENIMIENTO ",MX: A&E
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30661
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="MX: Adn 40" tvg-logo="http://mstrtv.com:25461/images/ea1f8f050b9a6330491733b7daf97ff4.png" group-title="NOTICIAS",MX: Adn 40
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30727
+#EXTINF:-1 tvg-id="axn.mexico.mx" tvg-name="MX: AXN" tvg-logo="http://mstrtv.com:25461/images/398c4fb083c62c7fb36b2e596747f4b9.png" group-title="ENTRETENIMIENTO ",MX: AXN
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30676
+#EXTINF:-1 tvg-id="azteca.7.mx" tvg-name="MX: Azteca 7.." tvg-logo="http://mstrtv.com:25461/images/9f37351c91adb7467ec29a91fa65ea2e.png" group-title="LOCALES ",MX: Azteca 7..
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30719
+#EXTINF:-1 tvg-id="azteca.uno.mx" tvg-name="MX: Azteca Uno.." tvg-logo="http://mstrtv.com:25461/images/90fdf1534239351baa061085a9d40513.png" group-title="LOCALES ",MX: Azteca Uno..
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30717
+#EXTINF:-1 tvg-id="" tvg-name="MX: BeIn Sports ENG" tvg-logo="http://mstrtv.com:25461/images/c6d9300f2344e2b848ad1be11fbd923d.png" group-title="DEPORTES ",MX: BeIn Sports ENG
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30740
+#EXTINF:-1 tvg-id="" tvg-name="MX: Bein Sports N" tvg-logo="http://mstrtv.com:25461/images/c6d9300f2344e2b848ad1be11fbd923d.png" group-title="DEPORTES ",MX: Bein Sports N
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30763
+#EXTINF:-1 tvg-id="cartoon.network.mexico.mx" tvg-name="MX: Cartoon Network" tvg-logo="http://mstrtv.com:25461/images/b947fe82e0a77905b89b38ef3978bd65.png" group-title="KIDS",MX: Cartoon Network
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30639
+#EXTINF:-1 tvg-id="cinecanal.mexico.mx" tvg-name="MX: Cinecanal " tvg-logo="http://mstrtv.com:25461/images/f13a615d368058a82c4fafbf11fa3c81.png" group-title="PELICULAS ",MX: Cinecanal 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30671
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="MX: Cinemax" tvg-logo="http://mstrtv.com:25461/images/a44394590736dea2bc659b5fb8182c2a.png" group-title="PELICULAS ",MX: Cinemax
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30697
+#EXTINF:-1 tvg-id="11.mexico.mx" tvg-name="MX: Claro Sports" tvg-logo="http://mstrtv.com:25461/images/e830c0bcef57853e81f4742aed25ed48.png" group-title="DEPORTES ",MX: Claro Sports
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30746
+#EXTINF:-1 tvg-id="cnn.en.espanol.mx" tvg-name="MX: CNN Espanol" tvg-logo="http://mstrtv.com:25461/images/d361bf789a4e705e3d1b52391b20c0b8.png" group-title="NOTICIAS",MX: CNN Espanol
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30725
+#EXTINF:-1 tvg-id="comedy.central.mexico.mx" tvg-name="MX: Comedy Central" tvg-logo="http://mstrtv.com:25461/images/427eb99468f376cafcbe5922334a32cf.png" group-title="ENTRETENIMIENTO ",MX: Comedy Central
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30660
+#EXTINF:-1 tvg-id="de.pelicula.clasico.mx" tvg-name="MX: DePelicula Clasico" tvg-logo="http://mstrtv.com:25461/images/3df011c2777672ae76cdaad6bb8ae3b3.png" group-title="PELICULAS ",MX: DePelicula Clasico
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30692
+#EXTINF:-1 tvg-id="discovery.mexico.mx" tvg-name="MX: Discovery Channel" tvg-logo="http://mstrtv.com:25461/images/a873ef59f1068b647499d714d217aa97.png" group-title="CULTURA ",MX: Discovery Channel
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30612
+#EXTINF:-1 tvg-id="discovery.kids.mx.mx" tvg-name="MX: Discovery Kids" tvg-logo="http://mstrtv.com:25461/images/a873ef59f1068b647499d714d217aa97.png" group-title="KIDS",MX: Discovery Kids
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30636
+#EXTINF:-1 tvg-id="espn.2.mx" tvg-name="MX: ESPN 1.." tvg-logo="http://mstrtv.com:25461/images/4df6edded9ba777a1b9418c1f5ed26f1.png" group-title="DEPORTES ",MX: ESPN 1..
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30759
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX: ESPN 2.." tvg-logo="http://mstrtv.com:25461/images/4df6edded9ba777a1b9418c1f5ed26f1.png" group-title="DEPORTES ",MX: ESPN 2..
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30755
+#EXTINF:-1 tvg-id="espn.3.mx" tvg-name="MX: ESPN 3.." tvg-logo="http://mstrtv.com:25461/images/4df6edded9ba777a1b9418c1f5ed26f1.png" group-title="DEPORTES ",MX: ESPN 3..
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30757
+#EXTINF:-1 tvg-id="forotv.mx" tvg-name="MX: Foro TV" tvg-logo="http://mstrtv.com:25461/images/0b390da7512fbdc1b4ae65fc282da9d0.png" group-title="NOTICIAS",MX: Foro TV
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30726
+#EXTINF:-1 tvg-id="fox.sports.mx" tvg-name="MX: Fox Sports 1.." tvg-logo="http://mstrtv.com:25461/images/3c87f3d4c9282b42f3ddab50a6106190.png" group-title="DEPORTES ",MX: Fox Sports 1..
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30731
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="MX: Golden" tvg-logo="http://mstrtv.com:25461/images/73e06f1283ceb532f1d495b49ae1b2b6.png" group-title="PELICULAS ",MX: Golden
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30675
+#EXTINF:-1 tvg-id="golden.premier.2.mx" tvg-name="MX: Golden Premiere" tvg-logo="http://mstrtv.com:25461/images/73e06f1283ceb532f1d495b49ae1b2b6.png" group-title="PELICULAS ",MX: Golden Premiere
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30674
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="MX: HBO" tvg-logo="http://mstrtv.com:25461/images/ffb69ed5f4e8ccbc5fbb9c62da1f5cf0.png" group-title="PELICULAS ",MX: HBO
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30670
+#EXTINF:-1 tvg-id="hbo.2.mx" tvg-name="MX: HBO 2 " tvg-logo="http://mstrtv.com:25461/images/f702cb8faea80df38ac59d8dfa0b3f43.png" group-title="PELICULAS ",MX: HBO 2 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30656
+#EXTINF:-1 tvg-id="hbo.family.mx" tvg-name="MX: HBO Family" tvg-logo="http://mstrtv.com:25461/images/569484c718a0f05559f628b6c0e2ae6e.png" group-title="PELICULAS ",MX: HBO Family
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30669
+#EXTINF:-1 tvg-id="hbo.plus.mexico.mx" tvg-name="MX: HBO Plus" tvg-logo="http://mstrtv.com:25461/images/1954947fe0804e50df7e93018536f68e.png" group-title="PELICULAS ",MX: HBO Plus
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30654
+#EXTINF:-1 tvg-id="" tvg-name="MX: HBO Signature" tvg-logo="http://mstrtv.com:25461/images/7fa41f3c35b327214b21c123f82be1ca.png" group-title="PELICULAS ",MX: HBO Signature
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30668
+#EXTINF:-1 tvg-id="lifetime.mexico.mx" tvg-name="MX: Lifetime" tvg-logo="http://mstrtv.com:25461/images/d822ee2daab28809ae6281d50d168a9d.png" group-title="ENTRETENIMIENTO ",MX: Lifetime
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30704
+#EXTINF:-1 tvg-id="milenio.mx" tvg-name="MX: Milenio TV" tvg-logo="http://mstrtv.com:25461/images/64f18ab5c23cfd921f635c2307808148.png" group-title="NOTICIAS",MX: Milenio TV
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30724
+#EXTINF:-1 tvg-id="multimedios.plus.mx" tvg-name="MX: Multimedios Monterrey." tvg-logo="http://mstrtv.com:25461/images/9b12833e13df1ec4ca951c2340bd6873.png" group-title="LOCALES ",MX: Multimedios Monterrey.
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30715
+#EXTINF:-1 tvg-id="national.geographic.mexico.mx" tvg-name="MX: Nat Geo" tvg-logo="http://mstrtv.com:25461/images/287ff0ce22687ce432b075ab0a499b8c.png" group-title="CULTURA ",MX: Nat Geo
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30635
+#EXTINF:-1 tvg-id="nickelodeon.mexico.mx" tvg-name="MX: Nick" tvg-logo="http://mstrtv.com:25461/images/a120ef8e5c11d2310790c2701312aa0b.png" group-title="KIDS",MX: Nick
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30632
+#EXTINF:-1 tvg-id="syfy.mexico.mx" tvg-name="MX: USA Latinoamerica" tvg-logo="http://mstrtv.com:25461/images/2320fbfaa1a8116787b592409e7f3806.png" group-title="ENTRETENIMIENTO ",MX: USA Latinoamerica
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30681
+#EXTINF:-1 tvg-id="cinema.mx" tvg-name="MX: Cinema" tvg-logo="http://mstrtv.com:25461/images/a27d2a8ecbc653ddfa99a83bc9998331.png" group-title="PELICULAS ",MX: Cinema
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30673
+#EXTINF:-1 tvg-id="4.monterrey.mx" tvg-name="MX: Televisa Monterrey" tvg-logo="http://mstrtv.com:25461/images/4066a49b9d98a218a13407eb047d8e69.png" group-title="LOCALES ",MX: Televisa Monterrey
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30716
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="MX: TNT" tvg-logo="http://mstrtv.com:25461/images/9b858af4616d0b9299a69f3dd6309402.png" group-title="PELICULAS ",MX: TNT
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30665
+#EXTINF:-1 tvg-id="tnt.series.mexico.mx" tvg-name="MX: TNT Series" tvg-logo="http://mstrtv.com:25461/images/081de99c68b13a661d2cba44549926dc.png" group-title="ENTRETENIMIENTO ",MX: TNT Series
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30646
+#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="MX: Tooncast" tvg-logo="http://mstrtv.com:25461/images/8141d0cc4c503979689b9d773c7fd88a.png" group-title="KIDS",MX: Tooncast
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30629
+#EXTINF:-1 tvg-id="unicable.mx.mx" tvg-name="MX: Unicable" tvg-logo="http://mstrtv.com:25461/images/67303f105b2408c22cfe706a0831c8d3.png" group-title="ENTRETENIMIENTO ",MX: Unicable
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30643
+#EXTINF:-1 tvg-id="universal.mexico.mx" tvg-name="MX: Universal tv" tvg-logo="http://mstrtv.com:25461/images/959f4b152d7851744fad9b7dfe4ab69a.png" group-title="ENTRETENIMIENTO ",MX: Universal tv
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30680
+#EXTINF:-1 tvg-id="tudn.us" tvg-name="MX: TUDN USA.." tvg-logo="http://mstrtv.com:25461/images/d3f529eaab38130ef7870928a3be689b.png" group-title="DEPORTES ",MX: TUDN USA..
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30761
+#EXTINF:-1 tvg-id="warner.mx" tvg-name="MX: Warner tv" tvg-logo="http://mstrtv.com:25461/images/4159d721768f235f54ac6440ee313c86.png" group-title="ENTRETENIMIENTO ",MX: Warner tv
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30664
+#EXTINF:-1 tvg-id="fox.sports.3.mx" tvg-name="MX: Fox Sports 3.." tvg-logo="http://mstrtv.com:25461/images/3c87f3d4c9282b42f3ddab50a6106190.png" group-title="DEPORTES ",MX: Fox Sports 3..
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/37307
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://mstrtv.com:25461/images/28814beea0526966c89d2445c98ec62c.png" group-title="EXTRANJEROS",ARG: ESPN 2
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50084
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Fox Sports 2 " tvg-logo="http://mstrtv.com:25461/images/28814beea0526966c89d2445c98ec62c.png" group-title="EXTRANJEROS",ARG: Fox Sports 2 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50085
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Fox Sports 1" tvg-logo="http://mstrtv.com:25461/images/28814beea0526966c89d2445c98ec62c.png" group-title="EXTRANJEROS",ARG: Fox Sports 1
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50086
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN " tvg-logo="http://mstrtv.com:25461/images/28814beea0526966c89d2445c98ec62c.png" group-title="EXTRANJEROS",ARG: ESPN 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT Sports " tvg-logo="http://mstrtv.com:25461/images/28814beea0526966c89d2445c98ec62c.png" group-title="EXTRANJEROS",ARG: TNT Sports 
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50771
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC Sports" tvg-logo="http://mstrtv.com:25461/images/28814beea0526966c89d2445c98ec62c.png" group-title="EXTRANJEROS",ARG: TYC Sports
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/127555
+#EXTINF:-1 tvg-id="" tvg-name="ESP: Antena 3" tvg-logo="http://mstrtv.com:25461/images/d50ac1a149c13c6104aaeb9d8844ea5b.png" group-title="EXTRANJEROS",ESP: Antena 3
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/125038
+#EXTINF:-1 tvg-id="" tvg-name="ESP: La 1" tvg-logo="http://mstrtv.com:25461/images/d50ac1a149c13c6104aaeb9d8844ea5b.png" group-title="EXTRANJEROS",ESP: La 1
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/127875
+#EXTINF:-1 tvg-id="" tvg-name="ESP: MEGA" tvg-logo="http://mstrtv.com:25461/images/d50ac1a149c13c6104aaeb9d8844ea5b.png" group-title="EXTRANJEROS",ESP: MEGA
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/127884
+#EXTINF:-1 tvg-id="" tvg-name="SEXMEX" tvg-logo="http://mstrtv.com:25461/images/5db459f3a2371b69f022918552888146.png" group-title="ADULTOS XXX",SEXMEX
+http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/149688
